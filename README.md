@@ -4,8 +4,8 @@
 
 | Field | Details |
 |---|---|
-| **Name** | Vivek Gowda BN |
-| **USN** | 1RUA25CSE0530 |
+| **Name** | Sahil Khan |
+| **USN** | 1RUA25CSE0405 |
 | **Subject** | Data Science |
 
 ## About This Repository
